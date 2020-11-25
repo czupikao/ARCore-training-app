@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4709064032699622489
+  m_GuidHigh: 18012054799573041793
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5582548959545897980
+      m_GuidHigh: 9787421786222288808
+    m_SerializedTextureGuid:
+      m_GuidLow: 4811204172134365586
+      m_GuidHigh: 14070026610013071385
+    m_Size: {x: 0.02, y: 0.026666665}
+    m_SpecifySize: 1
+    m_Name: IMG_20201027_131207
+    m_Texture: {fileID: 2800000, guid: 25f23992d4b442c419681fd6a7c642c3, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5419923180289743897
+      m_GuidHigh: 16287242545092308612
+    m_SerializedTextureGuid:
+      m_GuidLow: 12652003491785392167
+      m_GuidHigh: 4370644783706762377
+    m_Size: {x: 0.02, y: 0.02}
+    m_SpecifySize: 1
+    m_Name: IMG_20201027_140142
+    m_Texture: {fileID: 2800000, guid: 80dec027f224af94896c412c46a6a73c, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5044461534687928298
+      m_GuidHigh: 5072614993721015466
+    m_SerializedTextureGuid:
+      m_GuidLow: 15718901765081446546
+      m_GuidHigh: 15081527058957906776
+    m_Size: {x: 0.015, y: 0.015}
+    m_SpecifySize: 1
+    m_Name: IMG_20201027_142700
+    m_Texture: {fileID: 2800000, guid: 7ef0b892c1dfda2458b3a06bf4584cd1, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5249947969376587099
+      m_GuidHigh: 5509722018353165719
+    m_SerializedTextureGuid:
+      m_GuidLow: 2536842011871678806
+      m_GuidHigh: 2248139743005543897
+    m_Size: {x: 0.05, y: 0.042334907}
+    m_SpecifySize: 1
+    m_Name: WlacznikStolu
+    m_Texture: {fileID: 2800000, guid: 78e61156ac5e2334d98d48632fff321f, type: 3}
